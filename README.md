@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Chef Owens @KitchenChatter
-- 👀 I’m interested in cooking up automation test cases, using Selenium WebDriver as the core automation tool for testing web applications. I use Python
-- for coding. To write the test scenarios and steps, I use Behave, which is a behavior-driven development(BDD) framework that allows me to cookup test cases in natural language format. For report generation, I use Allure which generates HTML reports. Finally, for cross-browser testing, I user BroswerStack, whcih allows me to run tests on different browsers and devices. 
-- 🌱 I’m currently learning at Careerist for QA automation, and work on the autonomy team as a Lead Operations Specialist/Fleet Support @DoorDashLabs...
-- 💞️ I’m looking to collaborate on other automation projects...
+🚀 Cybersecurity Enthusiast | SDSU Student | Project Manager
+
+Hi there! 👋 I'm passionate about cybersecurity and committed to building secure systems that empower innovation. Currently studying Cybersecurity at San Diego State University, I bring a unique blend of technical curiosity and professional experience as a Project Manager in the field of autonomous software.
+
+🛡️ What drives me?
+
+Uncovering vulnerabilities and crafting resilient solutions.
+Collaborating to bridge technical expertise with clear communication.
+Exploring new ways to make technology safer and more accessible.
+🧗‍♂️ When I'm not analyzing systems or managing projects, you can find me scaling indoor rock walls, always looking for the next challenge to conquer!
+
+Let’s connect and build something amazing together. 🌐
 - 📫 How to reach me linkedin.com/in/ryan-owens-a8520862/ ...
 
 <!---
