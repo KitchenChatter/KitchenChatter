@@ -1,16 +1,19 @@
-🚀 Cybersecurity Enthusiast | SDSU Student | Project Manager
+🚀 Software Engineer | Robotics Enthusiast | Robotics Technician Student
 
-Hi there! 👋 I'm passionate about cybersecurity and committed to building secure systems that empower innovation. Currently studying Cybersecurity at San Diego State University, I bring a unique blend of technical curiosity and professional experience as a Project Manager in the field of autonomous software.
+Hi there! 👋 I'm a passionate Software Engineer in training with a deep interest in robotics and secure systems. Currently enrolled in a Robotics Technician program and at San Diego State University, I my day to day is working with robots. I bring a unique blend of hands-on project management experience and technical curiosity—especially in autonomous and intelligent systems.
 
-🛡️ What drives me?
+🤖 What drives me?
 
-Uncovering vulnerabilities and crafting resilient solutions.
-Collaborating to bridge technical expertise with clear communication.
-Exploring new ways to make technology safer and more accessible.
-🧗‍♂️ When I'm not analyzing systems or managing projects, you can find me scaling indoor rock walls, always looking for the next challenge to conquer!
+Building smarter, safer software for real-world robotics applications
 
-Let’s connect and build something amazing together. 🌐
-- 📫 How to reach me linkedin.com/in/ryan-owens-a8520862/ ...
+Bridging engineering with clear communication to deliver impactful results
+
+Exploring how robotics and cybersecurity intersect to shape the future
+
+🧗‍♂️ Outside the lab, you'll find me scaling indoor rock walls—always chasing the next challenge.
+
+Let’s connect and build something amazing together! 🌐
+📫 LinkedIn
 
 <!---
 KitchenChatter/KitchenChatter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
