@@ -1,6 +1,6 @@
-🚀 Software Engineer | Robotics Enthusiast | Robotics Technician Student
+🚀 QA Engineer | Robotics Enthusiast | 
 
-Hi there! 👋 I'm a passionate Software Engineer in training with a deep interest in robotics and secure systems. Currently enrolled in a Robotics Technician program and at San Diego State University, I my day to day is working with robots. I bring a unique blend of hands-on project management experience and technical curiosity—especially in autonomous and intelligent systems.
+Hi there! 👋 I'm a passionate QA Engineer in training with a deep interest in automation and secure systems. Currently enrolled in a Quality Assurance program and at Triple Ten. My day to day is working with robots, and I bring a unique blend of hands-on project management experience and technical curiosity—especially in autonomous and intelligent systems.
 
 🤖 What drives me?
 
