@@ -1,4 +1,4 @@
-🚀 QA Engineer | Robotics Enthusiast | 
+🚀 Jr. QA Testing | Manual Testing | Robotics Enthusiast | Jira junky | Agile frameworks
 
 Hi there! 👋 I'm a passionate QA Engineer in training with a deep interest in automation and secure systems. Currently enrolled in a Quality Assurance program and at Triple Ten. My day to day is working with robots, and I bring a unique blend of hands-on project management experience and technical curiosity—especially in autonomous and intelligent systems.
 
