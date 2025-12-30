@@ -2,6 +2,30 @@
 
 Hi there! 👋 I'm a passionate QA Engineer in training with a deep interest in automation and secure systems. Currently enrolled in a Quality Assurance program and at Triple Ten. My day to day is working with robots, and I bring a unique blend of hands-on project management experience and technical curiosity—especially in autonomous and intelligent systems.
 
+🛠 Tools & Skills
+
+Tools
+
+Jira – defect tracking and test execution
+
+Postman – basic API testing
+
+Chrome DevTools – UI and network inspection
+
+GitHub – test documentation and portfolio
+
+Skills
+
+Manual testing
+
+Test case design
+
+Regression & smoke testing
+
+Bug reporting
+
+SDLC & Agile fundamentals
+
 🤖 What drives me?
 
 Building smarter, safer software for real-world robotics applications
